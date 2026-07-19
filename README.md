@@ -73,7 +73,7 @@ Sales-Business-Performance-Analysis
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive_dashboard.png)
 
 ### Product Performance
 
